@@ -1,0 +1,24 @@
+# Vivado generated files
+.cache/
+.hw/
+.ip_user_files/
+.sim/
+.gen/
+.xsim/
+
+# Vivado project files
+*.xpr
+*.jou
+*.log
+
+# Generated simulation files
+*.wdb
+*.str
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.dbdesktop.ini
