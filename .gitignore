@@ -21,4 +21,5 @@
 
 # OS files
 .DS_Store
-Thumbs.dbdesktop.ini
+Thumbs.db
+desktop.ini
